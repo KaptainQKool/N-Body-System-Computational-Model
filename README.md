@@ -1,12 +1,13 @@
-# WOAHHH WHAT IS THIS?!
-good question
-
-
-this is a web ui that basically simulates projectile motion. it's kinda really bad cause i made it in 3 days and the code quality is...erm...interesting!! 
-
-but it works!!
-
-
-and i love it!!!
-
-so no judging me!!!
+# I HAVE INVENTED PHYSICS
+This started out as a projectile motion simulation created by a friend of mine. I have converted it into a model of universal gravitation.
+# WHY?
+Why not?
+# WHAT DID I USE TO MAKE IT?
+ - 45% jank
+ - 17% throwing stuff at the wall, figuratively
+ - 13% throwing stuff at the wall, literally
+ - 26% elbow grease
+ - 0.2% blood
+ - 1.7% sweat
+ - 0.9% tears
+ - 237% math
