@@ -303,7 +303,7 @@
             </div>
   
             <div id="topright">
-                <h1>Michael and David's Amazing Spectacular N-Body Problem Simulator</h1><h3>(it's better than ani's)</h3>
+                <h1>Michael and David's Amazing Spectacular N-Body Problem Simulator</h1><h3>(Ani helped too)</h3>
   
                 <div id="datap">
                         <table>
